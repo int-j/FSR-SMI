@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 main()
-{int A[50][50],T[50],k,min,i,j,n,trouve;//hna derti T[n] rah faux dir hakdak
+{int A[50][50],T[50],k,min,i,j,n,trouve;
 //dimension
 do{printf("Entrez n : \n");
    scanf("%d",&n);
